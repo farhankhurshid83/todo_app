@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "368274129421",
+    "project_id": "salman-ae2f5",
+    "storage_bucket": "salman-ae2f5.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:368274129421:android:847b9a687551abbacfcb44",
+        "android_client_info": {
+          "package_name": "com.example.todo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBufczWNDNyR4zGqloyhl7NnPrEe4QyTxU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
